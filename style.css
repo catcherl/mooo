@@ -1,0 +1,25 @@
+h1 {
+  color: white;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+.dog {
+   text-decoration: underline;
+   color: white;
+}
+
+.cat {
+text-decoration: underline;
+color: white;
+}
+.fun {
+text-decoration: overline;
+color: white;
+}
+a {
+  color:white;
+}
