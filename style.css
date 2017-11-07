@@ -1,25 +1,30 @@
 h1 {
-  color: white;
+  color:white;
 }
 
 body {
-  background-color: black;
+  background-color: tan;
   color: white;
 }
 
 .dog {
    text-decoration: underline;
-   color: white;
+   color: green;
 }
 
 .cat {
 text-decoration: underline;
-color: white;
+color: red;
 }
 .fun {
 text-decoration: overline;
-color: white;
+color: pink;
 }
 a {
-  color:white;
+  color:orange;
+}
+
+.purpleblue{
+  background-color: purple;
+  color:blue;
 }
